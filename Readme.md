@@ -13,6 +13,33 @@ git commit - m "add message"
 git push -u origin master
 git clone https://github.com/gnurm7/ibb_ecodation_javacore.git
 ```
+## Java Commen Rules ()
+```sh
+Class isimler: PascalCase göre yazılır.
+Class isimleri: fiil olarak kallanmayız.
+Class : Javada 1 tane public class vardır.(inner class haric)
+Class : Javada static class yoktur.(inner class haric)
+
+Paket isimleri: Küçük harflerle yazılır.
+Paket isimleri: fiil olarak kullanmayız.
+Paket kısa net bir şekilde olması gerekir.
+```
+---
+## Java Core
+```sh
+
+```
+---
+## Java Core
+```sh
+
+```
+---
+## Java Core
+```sh
+
+```
+---
 ## Java Core
 ```sh
 
