@@ -1,7 +1,12 @@
 package com.gnurm7._1_part_javatypes;
 
+import javax.crypto.spec.PSource;
+
 public class _02_Variables {
-    //veri değişken isimlerini yazarken;
+
+
+    public static void main(String[] args) {
+        //veri değişken isimlerini yazarken;
 /*
 veri isimlendirmeleri;
 1-) isim veya sıfat ,zamir kullanmamız lazım.
@@ -13,12 +18,12 @@ veri isimlendirmeleri;
 7-)Anlamlı ve açıklayıcı isimler seçiniz.
 */
 
-
-    public static void main(String[] args) {
-        int schoolNumber=23;
+        int schoolNumber = 23;
         System.out.println(schoolNumber);
 
-
+        //Sabit
+        final int max_students = 100;
+        System.out.println(max_students);
 
     }
 }

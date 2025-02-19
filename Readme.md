@@ -25,9 +25,9 @@ Paket isimleri: fiil olarak kullanmayız.
 Paket kısa net bir şekilde olması gerekir.
 ```
 ---
-## Java Core
+## Java Core Information
 ```sh
-
+Java case sensitive bir dildir. (Küçükbüyük harfe duyarlı yüksek seviyede bir dildir)
 ```
 ---
 ## Java Core
