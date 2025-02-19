@@ -2,7 +2,7 @@ package com.gnurm7._1_part_javatypes;
 
 
 
-public class _04_operators {
+public class _05_operators {
     public static void main(String[] args) {
         //operator
         /*
